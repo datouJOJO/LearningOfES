@@ -10,7 +10,7 @@ public class Constant {
     /**
      * es服务器地址
      */
-    public static final String ELASTIC_SEARCH_SERVER = "120.53.121.199";
+    public static final String ELASTIC_SEARCH_SERVER = "127.0.0.1";
 
     /**
      * es服务器端口
