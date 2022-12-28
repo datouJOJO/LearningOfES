@@ -10,7 +10,7 @@ public class Constant {
     /**
      * es服务器地址
      */
-    public static final String ELASTIC_SEARCH_SERVER = "xxx.xxx.xxx.xxx";
+    public static final String ELASTIC_SEARCH_SERVER = "120.53.121.199";
 
     /**
      * es服务器端口
@@ -31,6 +31,6 @@ public class Constant {
     /**
      * es登录密码
      */
-    public static final String PASSWORD = "xxx";
+    public static final String PASSWORD = "zl62591102";
 
 }
